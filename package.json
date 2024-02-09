@@ -1,0 +1,15 @@
+{
+  "name": "uzduotis_batai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "batai": "dead-server --host=localhost --port=4808",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saulute",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
